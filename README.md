@@ -1,6 +1,6 @@
 # buffer
 
-just buffer for some info
+just buffer for some info\n
 
 analog to telegram's "saved messages"
 
