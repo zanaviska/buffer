@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=hpqrDUuk7HY
 
 https://habr.com/ru/company/ods/blog/322626/
 https://habr.com/ru/company/ods/blog/322534/
+
+https://habr.com/ru/post/414165/
