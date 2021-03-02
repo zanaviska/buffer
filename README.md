@@ -20,3 +20,5 @@ https://habr.com/ru/post/537790/
 
 https://www.felixcloutier.com/x86/
 
+https://www.agner.org/optimize/
+
