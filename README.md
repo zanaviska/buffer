@@ -23,3 +23,5 @@ https://www.felixcloutier.com/x86/
 https://www.agner.org/optimize/
 
 https://www.cyberforum.ru/assembler-x64/thread1190788.html
+
+https://www.codeproject.com/Articles/1116188/40-Basic-Practices-in-Assembly-Language-Programmin
