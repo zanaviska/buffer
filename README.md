@@ -17,3 +17,6 @@ https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/
 https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
 
 https://habr.com/ru/post/537790/
+
+https://www.felixcloutier.com/x86/
+
